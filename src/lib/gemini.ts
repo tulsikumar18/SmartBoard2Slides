@@ -1,6 +1,6 @@
 // Gemini API integration for image processing and OCR
 
-const GEMINI_API_KEY = "AIzaSyDb2WorLK8NeXhV1e_41EPnSVB3Eb5Lk4c";
+const GEMINI_API_KEY = "AIzaSyDb2WorLK8NeXhV1e_41EPnSVB3Eb5Lk";
 const GEMINI_API_URL =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent";
 
